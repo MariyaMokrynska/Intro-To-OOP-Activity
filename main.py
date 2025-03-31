@@ -21,3 +21,5 @@ claire.summary()  # => "Claire is a freshman enrolled in 6 classes"
 
 # function
 get_student_with_more_classes(claire, samara)  # => samara
+
+print(get_student_with_more_classes(claire, samara))
